@@ -6,7 +6,7 @@ excerpt: 'In human patients, overdosing during general anesthesia can lead to co
 date: 2024-01-01
 venue: 'NeuroImage'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/NeuroImage_Loison_Mapping_main.pdf'
+paperurl: 'http://vloison.github.io/files/NeuroImage_Loison_Mapping_main.pdf'
 
 citation: 'Loison, V., et al. "Mapping general anesthesia states based on electro-encephalogram transition phases." Neuroimage 285 (2024).'
 ---
